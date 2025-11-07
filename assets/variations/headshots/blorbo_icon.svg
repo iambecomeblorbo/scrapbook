@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Body -->
+  <path d="M100 20c40 0 70 30 70 80s-30 80-70 80-70-30-70-80 30-80 70-80z" fill="white"/>
+
+  <!-- Eyes -->
+
+  <circle cx="66" cy="90" r="12" fill="black"/>
+  <circle cx="134" cy="90" r="12" fill="black"/>
+
+  <!-- <circle stroke-width="1" cx="72" cy="88" r="4" fill="white"/>
+  <circle stroke-width="1" cx="135" cy="88" r="4" fill="white"/> -->
+
+  <!-- Mouth -->
+  <rect x="85" y="100" width="30" height="8" rx="4" stroke-width="8" fill="black"/>
+  
+  <!-- Fur hatch marks (left side) -->
+  <line x1="45" y1="120" x2="55" y2="130" stroke="black" stroke-width="3"/>
+  <line x1="50" y1="140" x2="60" y2="150" stroke="black" stroke-width="3"/>
+  
+  <!-- Fur hatch marks (right side) -->
+  <!-- <line x1="145" y1="120" x2="155" y2="130" stroke="black" stroke-width="3"/>
+  <line x1="140" y1="140" x2="150" y2="150" stroke="black" stroke-width="3"/> -->
+
+</svg>
