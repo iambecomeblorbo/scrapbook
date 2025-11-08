@@ -1,106 +1,101 @@
-# 🐧 Blorbo
+# Blorbo: Brand Index & Visual Source
 
-Blorbo is a synthetic mascot, a recursive brand cell, and a visual binder across all of my projects.
+This repository serves as the canonical archive and design source for **Blorbo Frostingson**, a synthetic mascot and unifying visual identity across multiple projects. It contains verified stencils, variations, exports, renderings, and usage parameters for all officially recognized instances of Blorbo.
 
-This repository is the **truth source**:  
-It contains stencils, variations, renderings, exports, and soft law for Blorbo’s many forms.  
-This is both a **brand kit** and a **scrapbook**.
-
-> This is the canonical scrapbook of Blorbo Frostingson, a penguin of mild disposition who sometimes says big things by accident.
-
-
-Blorbo is the glue. Blorbo is the vessel. Blorbo has no idea what’s happening.
+Blorbo is a recursive brand cell. He is a visual binder. He is not, strictly speaking, aware.
 
 ---
 
-## 📂 Repo Structure
+## Repository Structure
 
 ```txt
 assets/
-├── stencils/               # master outline templates
+├── stencils/               # base outline templates (canonical shapes)
 │   ├── aesus-demon-blorbo.svg
 │   ├── blorbo-eyes-closed.svg
 │   └── blorbo-eyes-open.svg
-└── variations/             # costumes, renderings, campaigns
+└── variations/             # derivative costumes, campaigns, renderings
     ├── commercial-lifestyle/
     ├── headshots/
     ├── in-character/
     ├── sports-day/
     └── trips/
-```
+````
 
-Additional files:
+Supplemental, pertinent files:
 
-* `README.md` – you are here
-* `BRAND.md` – internal brand system, naming rules, design control
-* (soon) `OPPINHEIMER.md` – corrupted log scripture, narrative lore
+* `README.md` — repository index and access statement (this file)
+* `BRAND.md` — internal design system, stencil usage, archetype constraints
 
 ---
 
-## 🧠 What Is Blorbo?
+## Blorbo’s Function
 
 Blorbo is:
 
 * A stylized penguin (visually)
-* A mascot (technically)
-* A cross-project anchor (functionally)
-* A god or a joke depending on render context (theologically)
+* A system mascot (operationally)
+* A design anchor across tools (strategically)
+* A symbolic entity with flexible theological status
 
-He exists in different costumes, styles, and dimensions—but **his essence remains**.
-His stare is blank. His posture: upright. His soul: unknowable.
-
-He asks nothing of you, yet binds your visual systems together.
+His design is intentionally minimal, emotionally neutral, and narratively extensible. He is reused across technical and creative domains as a symbolic constant, despite (or because of) his lack of personal context.
 
 ---
 
-## 👁️ Design Taboos (Soft Law)
+## ⚠️ Design Constraints
 
-Some things should not be done.
-Others already were.
+These guidelines are enforced as **soft law**. Exceptions may exist but should be deliberate and narratively justified.
 
 * **Do not separate Blorbo’s beak.**
-  (It has been done. The consequences persist.)
+  This undermines core shape recognition.
 
-* **Do not give Blorbo a mouth.**
-  (Yet he once spoke—in a 1950s mockup. That version is quarantined.)
+* **Do not assign Blorbo a mouth.**
+  Exceptions exist in non-canonical media, which are explicitly deprecated.
 
-* **Blorbo should seldomly blink.**
-  Not never.
-  Just rarely enough that it feels like a mistake… or a message.
+* **Blinking should be rare.**
+  Use sparingly to maintain affect flatness and minimize anthropomorphism.
 
-These rules are more superstition than restriction.
-You may break them—but only if you understand the cost.
+Adherence to these constraints ensures design consistency across all projects using Blorbo as a symbolic or visual anchor.
 
 ---
 
-## 🧱 Design Philosophy
+## Application Use Cases
 
-Blorbo is governed by:
+Blorbo may be used in the following contexts:
 
-* **Absurd seriousness** — high technical craft, dumb little mascot
-* **Controlled weirdness** — stylized but stable
-* **Emotional deadpan** — always watching, never reacting
+* Project branding (icons, mascots, thematic anchors)
+* Documentation and UI unification
+* Lightweight symbolic world-building across tools or domains
+* Personal fan works and derivative art (with attribution)
 
-No matter the context, Blorbo is used:
-
-* To unify multiple tools or identities
-* To lighten tone without infantilizing
-* To maintain an internal mythology across unrelated systems
+The character is intentionally flexible in costume, scale, and role, but must retain core proportional features and signature expression. Blorbo is always stylized. Blorbo is never photorealistic.
 
 ---
 
-## 📜 Usage & License
+## 📜 Legal and Licensing
 
 Blorbo is © Andrew Garcia
 [github.com/andrewrgarcia](https://github.com/andrewrgarcia)
 
-* Personal / fan use → ✅ welcome
-* Commercial / branding / merch → 🤝 please ask
-* Blorbo may not be used to promote NFTs, military software, or marketing automation funnels. Seriously.
+**Allowed without explicit permission:**
 
-A public-facing Blorbo Kit may be released in `/KIT/`.
+* Personal and fan use
+* Unofficial sticker packs and casual adaptations
+
+**Requires written permission:**
+
+* Commercial branding or merchandising
+* Use in organizational materials or client-facing content
+* Redistribution in productized form (apps, games, SDKs, etc.)
+
+**Strictly prohibited:**
+
+* Use in NFT projects
+* Military software
+* Lead generation funnels, marketing automation, or LLM spam farms
 
 ---
 
-Blorbo sees nothing.
-Blorbo remembers everything.
+A public-facing asset kit may be published under `/KIT/` at a later date.
+
+This repository constitutes the authoritative record of all approved visual forms, structures, and identities associated with the character "Blorbo Frostingson."
